@@ -3,7 +3,7 @@ import React from "react";
 
 function Profile() {
     return (
-        <section className='py-5' id='company-profile'>
+        <section className='py-5' id='profile' >
             <div className='container text-center'>
                 <h2 className='dispplay-4'>Profile sekolah</h2>
                 <div className='row mt-4'>
@@ -22,7 +22,8 @@ function Profile() {
                     </div>
                     <div className='col md-6'>
                         <p style={{ textAlign: 'left' }}>
-                            <strong>Contact us</strong> info@smktibazma.sch.id| +628 1111 4433 9
+                            <strong>Contact us</strong> 
+                            <br/>info@smktibazma.sch.id|+628 1111 4433 9
                         </p>
                     </div>
                 </div>
