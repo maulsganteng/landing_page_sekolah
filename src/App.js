@@ -3,14 +3,16 @@ import './App.css';
 import Header from './komponen/header';
 import Footer from './komponen/footer';
 import Profile from './komponen/profil';
-import Carousel from './komponen/carousel';
+import MyCarousel from './komponen/carousel';
+import Fasilitas from './komponen/fasilitas';
 
 function App() {
   return (
   <>
   <Header />
-  <Carousel />
+  <MyCarousel />
   <Profile />
+  <Fasilitas />
   <Footer />
   </>
   );
