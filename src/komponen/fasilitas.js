@@ -4,8 +4,8 @@ import React from 'react';
 function Fasilitas() {
     return (
         <section className='py-3' id='profile' >
-            <div className='container text-start justify-content-center'>
-                <h2 className='display-4 pt-5 border-bottom'>Fasilitas Sekolah</h2>
+            <div className='container text-start'>
+                <h2 className='display-6 pt-5 border-bottom'>Fasilitas Sekolah</h2>
                 <div className="container text-center">
                     <div class="row justify-content-center">
                         <div className="col-4">

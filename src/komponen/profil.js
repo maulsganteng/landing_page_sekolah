@@ -5,7 +5,7 @@ function Profile() {
     return (
         <section className='pt-5 ' id='profile' >
             <div className='container text-center'>
-                <h2 className='display-4 border-bottom'>Profile sekolah</h2>
+                <h6 className='display-6 border-bottom'>Profile sekolah</h6>
                 <div className='row mt-4'>
                     <div className='col md-6'>
                         <img src='https://smktibazma.sch.id/static/media/main-logo-2.7b74690f86ab4e9a4743.png' alt='Company logo' className='img-fluid rounded-circle'></img>
@@ -27,7 +27,7 @@ function Profile() {
                 </div>
             </div>
             <div className='container text-start'>
-                <h2 className='display-4 pt-5 border-bottom'> Visi & Misi</h2>
+                <h2 className='display-6 pt-5 border-bottom'> Visi & Misi</h2>
                 <h4>Visi</h4>
                 <h7>Menjadi sekolah yang melahirkan generasi berkarakter unggul, berkepribadian Islami, mandiri, beprestasi dan menebar manfaat.</h7>
                 <h4>Misi</h4>

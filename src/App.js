@@ -5,6 +5,7 @@ import Footer from './komponen/footer';
 import Profile from './komponen/profil';
 import MyCarousel from './komponen/carousel';
 import Fasilitas from './komponen/fasilitas';
+import Logo from './komponen/logo';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
   <MyCarousel />
   <Profile />
   <Fasilitas />
+  <Logo />
   <Footer />
   </>
   );
